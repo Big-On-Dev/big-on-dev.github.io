@@ -1663,11 +1663,12 @@ input, select, textarea {
 
 #bgvid {
 	object-fit: cover;
+	object-position: 50% 50%;
 	width: 100vw;
 	height: 100vh;
 	position: fixed;
 	top: 0;
-	left: 0;
+	right: 0;
 	opacity: 0.5;
 	-moz-transition: opacity 2.5s ease-in-out;
 	-webkit-transition: opacity 2.5s ease-in-out;
@@ -1677,6 +1678,12 @@ input, select, textarea {
 	-webkit-transition-delay: 0.75s;
 	-ms-transition-delay: 0.75s;
 	transition-delay: 0.75s;
+}
+
+@media screen and (max-width: 1016px) {
+	#bgvid {
+		object-position: 70% 50%;
+	}
 }
 
 .is-preload #bgvid {
