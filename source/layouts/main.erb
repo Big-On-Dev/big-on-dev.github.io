@@ -14,9 +14,15 @@
     <meta name="theme-color" content="#98d9c3" />
     <%= favicon_tag 'favicon.ico' %>
     <link rel="apple-touch-icon" sizes="192x192" href="/images/android-chrome-192x192.png">
-    <%= stylesheet_link_tag "site" %>
+    <%= stylesheet_link_tag "main" %>
+    <noscript><%= stylesheet_link_tag "noscript" %></noscript>
   </head>
-  <body>
+  <body class="is-preload">
     <%= yield %>
+    <%= javascript_include_tag 'jquery.min.js' %>
+    <%= javascript_include_tag 'browser.min.js' %>
+    <%= javascript_include_tag 'breakpoints.min.js' %>
+    <%= javascript_include_tag 'util.js' %>
+    <%= javascript_include_tag 'main.js' %>
   </body>
 </html>
