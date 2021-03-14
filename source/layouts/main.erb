@@ -16,6 +16,15 @@
     <link rel="apple-touch-icon" sizes="192x192" href="/images/android-chrome-192x192.png">
     <%= stylesheet_link_tag "main" %>
     <noscript><%= stylesheet_link_tag "noscript" %></noscript>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-MHD8TBTWGZ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-MHD8TBTWGZ');
+    </script>
   </head>
   <body class="is-preload">
     <%= yield %>
