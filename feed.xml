@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blog Name</title>
   <subtitle>Blog subtitle</subtitle>
-  <id>http://blog.url.com/</id>
-  <link href="http://blog.url.com/"/>
+  <id>http://blog.url.com/blog</id>
+  <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
   <updated>2012-01-01T08:00:00+08:00</updated>
   <author>
@@ -11,10 +11,10 @@
   </author>
   <entry>
     <title>Example Article</title>
-    <link rel="alternate" href="http://blog.url.com/2012/01/01/example-article.html"/>
-    <id>http://blog.url.com/2012/01/01/example-article.html</id>
+    <link rel="alternate" href="http://blog.url.com/blog/2012/01/01/example-article/"/>
+    <id>http://blog.url.com/blog/2012/01/01/example-article/</id>
     <published>2012-01-01T08:00:00+08:00</published>
-    <updated>2021-03-14T12:05:04+08:00</updated>
+    <updated>2021-03-14T13:08:04+08:00</updated>
     <author>
       <name>Article Author</name>
     </author>
