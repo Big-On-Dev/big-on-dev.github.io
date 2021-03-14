@@ -50,9 +50,8 @@ activate :blog do |blog|
   # blog.page_link = "page/{num}"
 end
 
-page "/feed.xml", layout: false
-page "/sitemap.xml", layout: false
-page "/robots.txt", layout: false
+page '/*.xml', layout: false
+page '/*.txt', layout: false
 # Reload the browser automatically whenever files change
 # configure :development do
 #   activate :livereload
