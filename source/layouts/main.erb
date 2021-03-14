@@ -1,0 +1,22 @@
+<% domain = 'https://big-on.dev' %>
+<!doctype html>
+<html lang="en">
+  <head>
+    <title><%= current_page.data.title %></title>
+    <meta name="description" content="<%= current_page.data.description %>">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="twitter:card" content="summary" />
+    <meta property="og:url" content="<%= domain %>/" />
+    <meta property="og:title" content="<%= current_page.data.title %>" />
+    <meta property="og:description" content="<%= current_page.data.description %>" />
+    <meta property="og:image" content="<%= domain %>/images/android-chrome-192x192.png" />
+    <meta name="theme-color" content="#98d9c3" />
+    <%= favicon_tag 'favicon.ico' %>
+    <link rel="apple-touch-icon" sizes="192x192" href="/images/android-chrome-192x192.png">
+    <%= stylesheet_link_tag "site" %>
+  </head>
+  <body>
+    <%= yield %>
+  </body>
+</html>

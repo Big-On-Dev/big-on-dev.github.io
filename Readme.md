@@ -7,5 +7,5 @@ bundle exec middleman server
 
 To publish
 ```
-bundle exec rake publish
+./publish
 ```
