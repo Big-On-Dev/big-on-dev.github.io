@@ -51,6 +51,8 @@ activate :blog do |blog|
 end
 
 page "/feed.xml", layout: false
+page "/sitemap.xml", layout: false
+page "/robots.txt", layout: false
 # Reload the browser automatically whenever files change
 # configure :development do
 #   activate :livereload
