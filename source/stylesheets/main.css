@@ -1682,3 +1682,10 @@ input, select, textarea {
 .is-preload #bgvid {
 	opacity: 0;
 }
+
+.about-last-show-button {
+	display: block; 
+	width: 100%;
+	text-overflow: ellipsis;
+    overflow: hidden;
+}
