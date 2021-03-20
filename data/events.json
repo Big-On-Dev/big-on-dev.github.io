@@ -66,5 +66,54 @@
             ],
             "youtubeLink": "https://www.youtube.com/watch?v=smVpe_08gKM"
         }
+        ,
+        {
+            "title": "Devfest 2020, GDG Singapore",
+            "subtitle": "Engineering Through the Lens of CEOs + Scaling Your Engineering Career, A Panel with Senior Engineers",
+            "thumbnail": "images/events-9-16-ratio/2020-gdg-sg-devfest.png",
+            "speakers": [
+                {
+                    "title": "Ralph Vincent Regalado, CEO and Founder of Senti AI",
+                    "link": "https://www.linkedin.com/in/rvregalado/"
+                },
+                {
+                    "title": "Hervé Vũ Roussel, Co-founder at Quod AI",
+                    "link": "https://www.linkedin.com/in/hroussel/"
+                },
+                {
+                    "title": "Ryo Chikazawa, CEO & Co-Founder at Autify",
+                    "link": "https://www.linkedin.com/in/ryo-chikazawa-01533749/"
+                },
+                {
+                    "title": "Ronald Stevanus, Engineering Manager at ShopBack",
+                    "link": "https://www.linkedin.com/in/ronaldstevanus/"
+                },
+                {
+                    "title": "Henry Suryawirawan, Senior Strategic Cloud Engineer at Google",
+                    "link": "https://www.linkedin.com/in/henry-suryawirawan/"
+                },
+                {
+                    "title": "Jinny Wong, Principal Software Engineer, SP Group",
+                    "link": "https://www.linkedin.com/in/jinny-wong-26741892/"
+                },
+                {
+                    "title": "Weiyuan Liu, Staff Software Engineer, Hubble",
+                    "link": "https://www.linkedin.com/in/liuweiyuan/"
+                }
+            ],
+            "youtubeLink": "https://www.youtube.com/watch?v=7yXZi4RJ9Z4"
+        },
+        {
+            "title": "Full Cycle People Leadership",
+            "subtitle": "How to Have an Impactful Engineering Team",
+            "thumbnail": "images/events-9-16-ratio/2021-fullcycle-engineering-leadership.png",
+            "speakers": [
+                {
+                    "title": "Bruce Wang, Director of Engineering, Netflix",
+                    "link": "https://www.linkedin.com/in/batmany13/"
+                }
+            ],
+            "youtubeLink": "https://www.youtube.com/watch?v=-hksiU_WoiU"
+        }
     ]
 }
