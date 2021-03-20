@@ -1,0 +1,70 @@
+{
+    "upcoming": [
+        {
+            "title": "Engineer Career Paths",
+            "subtitle": "Are You Climbing Ladders or Scaling Walls?",
+            "thumbnail": "images/events-9-16-ratio/17th-april-2021-engineer-career-paths.png",
+            "speakers": [
+                {
+                    "title": "Bruce Wang, Director of Engineering, Netflix",
+                    "link": "https://www.linkedin.com/in/batmany13/"
+                }
+            ],
+            "youtubeLink": "https://www.youtube.com/watch?v=Ci8P4u-mxxk",
+            "startTime": "17th April 2021, 10:30 AM SGT"
+        },
+        {
+            "title": "From Construction Architects to Software Architects",
+            "subtitle": "Transitioning into the tech industry • Fireside chat",
+            "thumbnail": "images/events-9-16-ratio/3rd-april-2021-architects.png",
+            "speakers": [
+                {
+                    "title": "Eunice Chuah, Product Manager, Hubble",
+                    "link": "https://www.linkedin.com/in/eunicechuah/"
+                },
+                {
+                    "title": "Akshata Mohanty, Senior Software Engineer, Rakuten Viki",
+                    "link": "https://www.linkedin.com/in/akshatamohanty/"
+                }
+            ],
+            "youtubeLink": "https://www.youtube.com/watch?v=c9R0aqaqiPY",
+            "startTime": "3rd April 2021, 10:30 AM SGT"
+        }
+    ],
+    "past": [
+        {
+            "title": "Working Better Together",
+            "subtitle": "Lessons Learned from Google's People Operations Team",
+            "thumbnail": "images/events-9-16-ratio/20-mar-2021-working-better-together.png",
+            "speakers": [
+                {
+                    "title": "Prasad Setty, VP People Operations, Google",
+                    "link": "https://www.linkedin.com/in/prasad-setty-67a4b5/"
+                }
+            ],
+            "youtubeLink": "https://www.youtube.com/watch?v=vHlAAMvFfdw"
+        },
+        {
+            "title": "Managing High and Low Performers",
+            "thumbnail": "images/events-9-16-ratio/20th-february-2021-managing-high-and-low-performers.png",
+            "speakers": [
+                {
+                    "title": "Chris Haag, Vice President of Engineering, Salesforce",
+                    "link": "https://www.linkedin.com/in/chaag/"
+                }
+            ],
+            "youtubeLink": "https://www.youtube.com/watch?v=JXnqmCw51Nc"
+        },
+        {
+            "title": "Lessons Learned in 20 Years of Engineering Leadership",
+            "thumbnail": "images/events-9-16-ratio/16th-january-2021-engineering-leadership.png",
+            "speakers": [
+                {
+                    "title": "Christian McCarrick, Engineering Leader, Facebook",
+                    "link": "https://www.linkedin.com/in/chaag/"
+                }
+            ],
+            "youtubeLink": "https://www.youtube.com/watch?v=smVpe_08gKM"
+        }
+    ]
+}

@@ -18,10 +18,19 @@ layout: main
             <div class="inner">
                 <h1 style="color: #F5FFFA;">Big <span style="color: #f1c232; text-transform: none;">O(n)</span> Development</h1>
                 <p>Engineering Careers <span style="color: #D2B4DE;">Tomorrow</span>.<br/> <span style="color: #D2B4DE;">Developing People</span> Today.</p>
+                
+                <% if data.events.upcoming.size > 0 %>
+                    <% lastUpcomingEvent = data.events.upcoming.last %> 
+                    <div>
+                        <p class="up-next-label">Up next</p>
+                        <%= partial "partials/event", locals: { event: lastUpcomingEvent } %>
+                    </div>
+                <% end %>
             </div>
         </div>
         <nav>
             <ul>
+                <li><a href="#events">Events</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
@@ -30,6 +39,27 @@ layout: main
 
     <!-- Main -->
     <div id="main">
+        <!-- Events -->
+        <article id="events">
+            <h2 class="major">Events</h2>
+            <% if data.events.upcoming.size > 0 %>
+                <% lastUpcomingEvent = data.events.upcoming.last %> 
+                <div>
+                    <p class="up-next-label">Upcoming events</p>
+                    <% data.events.upcoming.reverse.each do |event| %>
+                    <%= partial "partials/event", locals: { event: event } %>
+                    <% end %>
+                </div>
+            <% end %>
+            <% if data.events.past.size > 0 %>
+                <div>
+                    <p class="up-next-label">Past events</p>
+                    <% data.events.past.each do |event| %>
+                    <%= partial "partials/past_event", locals: { event: event } %>
+                    <% end %>
+                </div>
+            <% end %>
+        </article>
 
         <!-- About -->
         <article id="about">
@@ -38,12 +68,6 @@ layout: main
                 <span class="image" style="padding: 1rem;"><img src="images/android-chrome-192x192.png" alt="logo" /></span>
             </div>
             <p><span style="color: #F5FFFA;">Big <span style="color: #f1c232;">O(n)</span> Development</span> is a non-profit initiative that aims to fill in the gap around helping individuals and teams in Singapore’s tech community around career progression and overall tech leadership skills. Our mission is to help everyone in Singapore become better leaders in the tech industry.</p>
-            <hr/>
-            <p>Check out some of our past events, with speakers from Facebook, Netflix, and more : </p>
-            <div style="margin-bottom: 2rem;">
-                <div><a href="https://www.youtube.com/watch?v=-hksiU_WoiU" class="about-last-show-button icon button brands fa-youtube"><span class="label"></span>&nbsp;&nbsp;Full Cycle People Leadership</a></div><br/>
-                <div><a href="https://www.youtube.com/watch?v=GskVVNtIlew" class="about-last-show-button icon button brands fa-youtube"><span class="label"></span>&nbsp;&nbsp;Managing High and Low Performers</a></div>
-            </div>
         </article>
 
         <!-- Contact -->

@@ -1320,7 +1320,6 @@ input, select, textarea {
 				-ms-transition-delay: 0.25s;
 				transition-delay: 0.25s;
 				padding: 3rem 2rem;
-				max-height: 40rem;
 				overflow: hidden;
 			}
 
@@ -1695,4 +1694,134 @@ input, select, textarea {
 	width: 100%;
 	text-overflow: ellipsis;
     overflow: hidden;
+}
+
+.up-next-label {
+	margin: 0;
+    text-align: left;
+    padding-left: 0.3rem;
+}
+
+.well {
+	background: rgba(255, 255, 255, 0.075);
+    border-radius: 4px;
+    margin: 0 0.25rem;
+	padding: 0.75rem;
+}
+
+.event-block img {
+	width: 352px;
+	height: 198px;
+	flex-grow: 0;
+}
+
+.event-block {
+	display: flex;
+	flex-direction: row;
+	align-items: stretch;
+	align-content: flex-start;
+	max-width: 1200px;
+	margin-bottom: 1rem;
+}
+
+.event-block img {
+	width: 480px;
+	height: 270px;
+	flex-grow: 0;
+}
+
+.event-block div.content {
+	margin-left: 0.75rem;
+	border-style: none !important;
+    text-transform: none !important;
+	text-align: left !important;
+	flex-grow: 1;
+	min-width: 0;
+	flex-direction: column;
+	display: flex;
+}
+
+.event-block div.content .title,
+.event-block div.content .subtitle,
+.event-block div.content .speakers{
+	text-transform: none !important;
+	margin: 0;
+	overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+	font-family: 'Roboto Mono', monospace;
+}
+
+.event-block div.content h3.two-line-clamp,
+.event-block div.content p.two-line-clamp {
+	-webkit-line-clamp: 2;
+	display: -webkit-box;
+    -webkit-box-orient: vertical;
+    white-space: normal;
+}
+
+.event-block div.content .speakers {
+	font-size: 0.6rem !important;
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+	text-align: right;
+	display: block;
+}
+
+.event-block div.content .title a,
+.event-block div.content .subtitle a,
+.event-block a.thumbnail-link{
+	border-bottom: none !important;
+}
+
+.event-block div.content .speakers a {
+	display: inline-block;
+	text-overflow: ellipsis;
+    overflow: hidden;
+	max-width: 100%;
+}
+
+.event-block div.content br {
+	display: inline !important;
+}
+
+.event-block div.content .button {
+	text-overflow: ellipsis;
+    overflow: hidden;
+	font-family: 'Roboto Mono', monospace;
+	line-height: 2rem;
+	height: 2rem;
+	font-size: 0.6rem !important;
+	max-width: 100%;
+}
+
+.event-block div.content .event-footer {
+	margin-top: auto;
+}
+
+@media screen and (max-width: 1680px) {
+	.event-block img {
+		width: 352px;
+		height: 198px;
+	}
+
+	.event-block {
+		max-width: 800px;
+	}
+}
+
+@media screen and (max-width: 701px) {
+	.event-block img {
+		width: 100%;
+		height: auto;
+	}
+
+	.event-block,
+	.event-block div.content .event-footer .button {
+		display: block;
+	}
+}
+
+#main article#events {
+	width: auto;
 }
