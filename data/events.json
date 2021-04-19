@@ -1,5 +1,7 @@
 {
     "upcoming": [
+    ],
+    "past": [
         {
             "title": "Engineer Career Paths",
             "subtitle": "Are You Climbing Ladders or Scaling Walls?",
@@ -12,9 +14,7 @@
             ],
             "youtubeLink": "https://www.youtube.com/watch?v=Ci8P4u-mxxk",
             "startTime": "17th April 2021, 10:30 AM SGT"
-        }
-    ],
-    "past": [
+        },
         {
             "title": "From Construction Architects to Software Architects",
             "subtitle": "Transitioning into the tech industry • Fireside chat",
