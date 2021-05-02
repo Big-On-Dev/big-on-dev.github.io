@@ -1,5 +1,17 @@
 {
     "upcoming": [
+        {
+            "title": "Engineering Productivity, Metrics, and Morale",
+            "thumbnail": "images/events-9-16-ratio/9th-june-2021-engineering-productivity-metrics-and-morale.png",
+            "speakers": [
+                {
+                    "title": "Wayne Haber, Director of Engineering, GitLab",
+                    "link": "https://www.linkedin.com/in/waynehaber/"
+                }
+            ],
+            "youtubeLink": "https://www.youtube.com/c/GDGSingapore/videos",
+            "startTime": "9th June 2021, 08:00 PM SGT"
+        }
     ],
     "past": [
         {
