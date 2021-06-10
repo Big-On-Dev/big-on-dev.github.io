@@ -1,6 +1,25 @@
 {
     "upcoming": [
         {
+            "title": "Developer Productivity at Scale",
+            "thumbnail": "images/events-9-16-ratio/3rd-july-2021-developer-productivity-at-scale.png",
+            "speakers": [
+                {
+                    "title": "Kent Wills, Director of Engineering, Yelp",
+                    "link": "https://www.linkedin.com/in/rkentwills/"
+                }
+            ],
+            "youtubeLink": "https://www.youtube.com/watch?v=5QC-yRVb28Q",
+            "startTime": "3rd July 2021, 10:30 AM SGT",
+            "description": "Developer productivity in a large organization can take many forms. I’ll share what it looks like at Yelp scale (500+ engineers). I’ll also share some best practices that we have discovered over the years and how to think about implementing them in your own organizations depending on the scale that you are currently at.\n\n\nWatch this event at: https://www.youtube.com/watch?v=5QC-yRVb28Q",
+            "calendar": {
+              "start": "2021-07-03T10:30:00+08:00",
+              "end": "2021-07-03T12:00:00+08:00"
+            }
+        }
+    ],
+    "past": [
+        {
             "title": "Engineering Productivity, Metrics, and Morale",
             "thumbnail": "images/events-9-16-ratio/9th-june-2021-engineering-productivity-metrics-and-morale.png",
             "speakers": [
@@ -11,9 +30,7 @@
             ],
             "youtubeLink": "https://www.youtube.com/watch?v=XGvJxsySRd8",
             "startTime": "9th June 2021, 08:00 PM SGT"
-        }
-    ],
-    "past": [
+        },
         {
             "title": "Engineer Career Paths",
             "subtitle": "Are You Climbing Ladders or Scaling Walls?",

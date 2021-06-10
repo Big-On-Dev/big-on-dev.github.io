@@ -24,9 +24,29 @@ layout: main
                     <div>
                         <p class="up-next-label">Up next</p>
                         <div class="well event-block">
-                            <a class="thumbnail-link" href="<%= event.youtubeLink %>" target="__blank">
-                                <img src="<%= event.thumbnail %>"/>
-                            </a>
+                            <div class="thumbnail">
+                              <a class="thumbnail-link" href="<%= event.youtubeLink %>" target="__blank">
+                                  <img src="<%= event.thumbnail %>"/>
+                              </a>
+                              <% if event.calendar.present? %>
+                              <% start_date_str = DateTime.strptime(event.calendar.start, '%Y-%m-%dT%H:%M:%S%z').utc.strftime('%Y%m%dT%H%M%SZ') %>
+                              <% end_date_str = DateTime.strptime(event.calendar.end, '%Y-%m-%dT%H:%M:%S%z').utc.strftime('%Y%m%dT%H%M%SZ') %>
+                              <% 
+                              calendarQueryParams = {
+                                action: 'TEMPLATE',
+                                text: event.title,
+                                location: event.youtubeLink,
+                                details: event.description,
+                                dates: "#{start_date_str}/#{end_date_str}"
+                              } 
+                              %>
+                              <a 
+                                href="<%= url_for 'https://www.google.com/calendar/render', query: calendarQueryParams %>" 
+                                target="__blank" 
+                                class="calendar icon fa-calendar-alt" 
+                                title="Add to calendar"><p>Add to calendar</p></a>
+                              <% end %>
+                            </div>
                             <div class="content">
                                 <h3 class="title two-line-clamp"><a href="<%= event.youtubeLink %>" target="__blank"><%= event.title %></a></h3>
                                 <% if event.subtitle.present? %>
@@ -71,9 +91,29 @@ layout: main
                     <p class="up-next-label">Upcoming events</p>
                     <% data.events.upcoming.reverse.each do |event| %>
                         <div class="well event-block">
-                            <a class="thumbnail-link" href="<%= event.youtubeLink %>" target="__blank">
-                                <img src="<%= event.thumbnail %>"/>
-                            </a>
+                            <div class="thumbnail">
+                              <a class="thumbnail-link" href="<%= event.youtubeLink %>" target="__blank">
+                                  <img src="<%= event.thumbnail %>"/>
+                              </a>
+                              <% if event.calendar.present? %>
+                              <% start_date_str = DateTime.strptime(event.calendar.start, '%Y-%m-%dT%H:%M:%S%z').utc.strftime('%Y%m%dT%H%M%SZ') %>
+                              <% end_date_str = DateTime.strptime(event.calendar.end, '%Y-%m-%dT%H:%M:%S%z').utc.strftime('%Y%m%dT%H%M%SZ') %>
+                              <% 
+                              calendarQueryParams = {
+                                action: 'TEMPLATE',
+                                text: event.title,
+                                location: event.youtubeLink,
+                                details: event.description,
+                                dates: "#{start_date_str}/#{end_date_str}"
+                              } 
+                              %>
+                              <a 
+                                href="<%= url_for 'https://www.google.com/calendar/render', query: calendarQueryParams %>" 
+                                target="__blank" 
+                                class="calendar icon fa-calendar-alt" 
+                                title="Add to calendar"><p>Add to calendar</p></a>
+                              <% end %>
+                            </div>
                             <div class="content">
                                 <h3 class="title two-line-clamp"><a href="<%= event.youtubeLink %>" target="__blank"><%= event.title %></a></h3>
                                 <% if event.subtitle.present? %>
