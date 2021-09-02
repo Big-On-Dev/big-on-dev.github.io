@@ -1,33 +1,37 @@
 ---
-build/images/favicon-16x16.png: 2021-08-04 23:54:56.237835198 +08:00
-build/images/android-chrome-192x192.png: 2021-08-04 23:54:56.147912481 +08:00
-build/images/apple-touch-icon.png: 2021-08-04 23:54:56.148980810 +08:00
-build/images/events-9-16-ratio/20th-february-2021-managing-high-and-low-performers.png: 2021-08-04
-  23:54:56.218420893 +08:00
-build/images/events-9-16-ratio/3rd-april-2021-architects.png: 2021-08-04 23:54:56.226020432
+build/images/favicon-16x16.png: 2021-09-03 04:23:54.271027240 +08:00
+build/images/android-chrome-192x192.png: 2021-09-03 04:23:54.186445571 +08:00
+build/images/apple-touch-icon.png: 2021-09-03 04:23:54.187462688 +08:00
+build/images/events-9-16-ratio/20th-february-2021-managing-high-and-low-performers.png: 2021-09-03
+  04:23:54.257097976 +08:00
+build/images/events-9-16-ratio/3rd-april-2021-architects.png: 2021-09-03 04:23:54.260201237
   +08:00
-build/images/events-9-16-ratio/3rd-july-2021-developer-productivity-at-scale.png: 2021-08-04
-  23:54:56.233186915 +08:00
-build/images/events-9-16-ratio/15th-september-2021-small-talk-overseas.png: 2021-08-04
-  23:55:51.803149787 +08:00
-build/images/events-9-16-ratio/9th-june-2021-engineering-productivity-metrics-and-morale.png: 2021-08-04
-  23:54:56.236029161 +08:00
-build/images/events-9-16-ratio/4th-august-2021-the-need-for-application-security.png: 2021-08-04
-  23:54:56.234334749 +08:00
-build/images/events-9-16-ratio/20-mar-2021-working-better-together.png: 2021-08-04
-  23:54:56.215909399 +08:00
-build/images/events-9-16-ratio/2021-fullcycle-engineering-leadership.png: 2021-08-04
-  23:54:56.217668916 +08:00
-build/images/events-9-16-ratio/2020-gdg-sg-devfest.png: 2021-08-04 23:54:56.216512858
+build/images/events-9-16-ratio/3rd-july-2021-developer-productivity-at-scale.png: 2021-09-03
+  04:23:54.267749755 +08:00
+build/images/events-9-16-ratio/15th-september-2021-small-talk-overseas.png: 2021-09-03
+  04:23:54.248263784 +08:00
+build/images/events-9-16-ratio/9th-june-2021-engineering-productivity-metrics-and-morale.png: 2021-09-03
+  04:23:54.270697939 +08:00
+build/images/events-9-16-ratio/2nd-september-2021-avoiding-the-engineering-sales-breakdown.png: 2021-09-03
+  04:25:46.548546128 +08:00
+build/images/events-9-16-ratio/4th-august-2021-the-need-for-application-security.png: 2021-09-03
+  04:23:54.269146025 +08:00
+build/images/events-9-16-ratio/2nd-october-2021-growth-mindset-my-career-a-work-in-progress.png: 2021-09-03
+  04:27:27.091902632 +08:00
+build/images/events-9-16-ratio/20-mar-2021-working-better-together.png: 2021-09-03
+  04:23:54.254423804 +08:00
+build/images/events-9-16-ratio/2021-fullcycle-engineering-leadership.png: 2021-09-03
+  04:23:54.256333220 +08:00
+build/images/events-9-16-ratio/2020-gdg-sg-devfest.png: 2021-09-03 04:23:54.255160106
   +08:00
-build/images/events-9-16-ratio/16th-january-2021-engineering-leadership.png: 2021-08-04
-  23:54:56.212259156 +08:00
-build/images/events-9-16-ratio/17th-april-2021-engineer-career-paths.png: 2021-08-04
-  23:54:56.215046208 +08:00
-build/images/events-9-16-ratio/17th-august-2021-small-talk-mentor.png: 2021-08-04
-  23:59:31.451056221 +08:00
-build/images/android-chrome-512x512.png: 2021-08-04 23:54:56.148717957 +08:00
-build/images/logo.png: 2021-08-04 23:54:56.239752946 +08:00
-build/images/overlay.png: 2021-08-04 23:54:56.239958536 +08:00
-build/images/favicon-32x32.png: 2021-08-04 23:54:56.238051708 +08:00
-build/images/bg.jpg: 2021-08-04 23:54:56.176722561 +08:00
+build/images/events-9-16-ratio/16th-january-2021-engineering-leadership.png: 2021-09-03
+  04:23:54.249398643 +08:00
+build/images/events-9-16-ratio/17th-april-2021-engineer-career-paths.png: 2021-09-03
+  04:23:54.252451312 +08:00
+build/images/events-9-16-ratio/17th-august-2021-small-talk-mentor.png: 2021-09-03
+  04:23:54.253388267 +08:00
+build/images/android-chrome-512x512.png: 2021-09-03 04:23:54.187168690 +08:00
+build/images/logo.png: 2021-09-03 04:23:54.272824297 +08:00
+build/images/overlay.png: 2021-09-03 04:23:54.273100911 +08:00
+build/images/favicon-32x32.png: 2021-09-03 04:23:54.271184809 +08:00
+build/images/bg.jpg: 2021-09-03 04:23:54.214468875 +08:00
