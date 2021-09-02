@@ -1,6 +1,23 @@
 {
   "upcoming": [
     {
+      "title": "Growth Mindset: My Career, a Work in Progress",
+      "thumbnail": "images/events-9-16-ratio/2nd-october-2021-growth-mindset-my-career-a-work-in-progress.png",
+      "speakers": [
+        {
+          "title": "Nandini Javagal, Engineering Manager, Facebook",
+          "link": "https://www.linkedin.com/in/njavagal/"
+        }
+      ],
+      "youtubeLink": "https://www.youtube.com/watch?v=BLAvZSn8wzY",
+      "startTime": "2nd October 2021, 08:00 PM SGT",
+      "description": "Most of our lives and careers have twists and turns. I am no exception. Throughout these challenges, I have learnt many lessons, taken the help from many! My journey is still a work in progress. In this talk, I will share my experiences, insights and a few best practices to incorporate a growth mindset into your own life and career.",
+      "calendar": {
+        "start": "2021-10-02T20:00:00+08:00",
+        "end": "2021-10-02T21:30:00+08:00"
+      }
+    },
+    {
       "title": "Small Talk, Episode 1: Working Overseas?",
       "thumbnail": "images/events-9-16-ratio/15th-september-2021-small-talk-overseas.png",
       "speakers": [
@@ -15,6 +32,25 @@
       "calendar": {
         "start": "2021-09-15T20:00:00+08:00",
         "end": "2021-09-15T21:30:00+08:00"
+      }
+    }
+  ],
+  "past": [
+    {
+      "title": "Avoiding the Engineering-Sales Breakdown",
+      "thumbnail": "images/events-9-16-ratio/2nd-september-2021-avoiding-the-engineering-sales-breakdown.png",
+      "speakers": [
+        {
+          "title": "Andrew Lau, CEO, Jellyfish",
+          "link": "https://www.linkedin.com/in/amlau/"
+        }
+      ],
+      "youtubeLink": "https://www.youtube.com/watch?v=gYK_IB8KVQU",
+      "startTime": "2nd September 2021, 08:00 PM SGT",
+      "description": "We've all seen it throughout our careers—the breakdown in communication and alignment between Sales and Engineering leaders (and by extension their organizations). We all know better alignment would be better for our companies, our customers, and our teams, but how can we get our Sales leaders to understand? Come discuss ways we can more effectively explain the work engineering does to Sales leaders, how we can drive alignment to ensure our teams are making the most impact, how we can put an end to all the finger-pointing.",
+      "calendar": {
+        "start": "2021-09-02T20:00:00+08:00",
+        "end": "2021-09-02T21:30:00+08:00"
       }
     },
     {
@@ -41,9 +77,7 @@
         "start": "2021-08-17T20:00:00+08:00",
         "end": "2021-08-17T21:30:00+08:00"
       }
-    }
-  ],
-  "past": [
+    },
     {
       "title": "The Need for Application Security",
       "thumbnail": "images/events-9-16-ratio/4th-august-2021-the-need-for-application-security.png",
