@@ -1,6 +1,42 @@
 {
   "upcoming": [
     {
+      "title": "Small Talk, Episode 2: All about Volunteering! In Tech!",
+      "thumbnail": "images/events-9-16-ratio/3rd-november-2021.png",
+      "speakers": [
+        {
+          "title": "Michael Cheng, Lead Software Engineer, Govtech Singapore",
+          "link": "https://www.linkedin.com/in/miccheng/"
+        }
+      ],
+      "youtubeLink": "https://www.youtube.com/watch?v=TIZSHqgckNg",
+      "startTime": "3rd November 2021, 08:00 PM SGT",
+      "description": "Have you ever wanted to try out volunteering, but never got to do so? Or have you tried out volunteering, but facing difficulties in leading your community. If so, this will be an interesting session, where we will talk to Michael Cheng, a well-respected and \"OG\" member for volunteering in the tech community.",
+      "calendar": {
+        "start": "2021-11-03T20:00:00+08:00",
+        "end": "2021-11-03T21:30:00+08:00"
+      }
+    },
+    {
+      "title": "Why Projects Succeed: Lessons Learned from the Android OS",
+      "thumbnail": "images/events-9-16-ratio/27th-october-2021.png",
+      "speakers": [
+        {
+          "title": "Chet Haase, Android Graphics Engineer, Google",
+          "link": "https://www.linkedin.com/in/chethaase/"
+        }
+      ],
+      "youtubeLink": "https://www.youtube.com/watch?v=eCl74DKUajQ",
+      "startTime": "27th October 2021, 08:00 PM SGT",
+      "description": "The story of how Android came to be, and how it managed to survive and thrive in a crowded field of competitors, is an interesting story of people, teams, and vision. But it's also an educational tale of how products can succeed, which can help inform future ideas, startups, companies, acquisitions, and projects throughout tech and business overall.\n\nThis session will draw from the recently published book, Androids: the Team That Built the Android Operating System, to see what we can all learn from the Android project, which started as two people building a camera OS and resulted in a platform running on more than 3 billion devices today.",
+      "calendar": {
+        "start": "2021-10-27T20:00:00+08:00",
+        "end": "2021-10-27T21:30:00+08:00"
+      }
+    }
+  ],
+  "past": [
+    {
       "title": "Growth Mindset: My Career, a Work in Progress",
       "thumbnail": "images/events-9-16-ratio/2nd-october-2021-growth-mindset-my-career-a-work-in-progress.png",
       "speakers": [
@@ -16,9 +52,7 @@
         "start": "2021-10-02T20:00:00+08:00",
         "end": "2021-10-02T21:30:00+08:00"
       }
-    }
-  ],
-  "past": [
+    },
     {
       "title": "Small Talk, Episode 1: Working Overseas?",
       "thumbnail": "images/events-9-16-ratio/15th-september-2021-small-talk-overseas.png",
