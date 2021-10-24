@@ -1,0 +1,10 @@
+---
+layout: rd
+---
+
+<% content_for(:title, "Big On Development - #{rd['title']}") %>
+<% content_for(:description, rd['description']) %>
+
+<script type="text/javascript">
+  window.location.href = "<%= rd['shortenedLink']['destination'] %>";
+</script>

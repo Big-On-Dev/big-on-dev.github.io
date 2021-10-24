@@ -11,10 +11,14 @@
       ],
       "youtubeLink": "https://www.youtube.com/watch?v=TIZSHqgckNg",
       "startTime": "3rd November 2021, 08:00 PM SGT",
-      "description": "Have you ever wanted to try out volunteering, but never got to do so? Or have you tried out volunteering, but facing difficulties in leading your community. If so, this will be an interesting session, where we will talk to Michael Cheng, a well-respected and \"OG\" member for volunteering in the tech community.",
+      "description": "Have you ever wanted to try out volunteering, but never got to do so? Or have you tried out volunteering, but facing difficulties in leading your community. If so, this will be an interesting session, where we will talk to Michael Cheng, a well-respected and 'OG' member for volunteering in the tech community.",
       "calendar": {
         "start": "2021-11-03T20:00:00+08:00",
         "end": "2021-11-03T21:30:00+08:00"
+      },
+      "shortenedLink": {
+        "placeholder": "small-talk-ep-2",
+        "destination": "https://www.youtube.com/watch?v=TIZSHqgckNg/"
       }
     },
     {
@@ -32,6 +36,10 @@
       "calendar": {
         "start": "2021-10-27T20:00:00+08:00",
         "end": "2021-10-27T21:30:00+08:00"
+      },
+      "shortenedLink": {
+        "placeholder": "chet-hasse-2-nov",
+        "destination": "https://gdg.community.dev/events/details/google-gdg-singapore-presents-why-projects-succeed-lessons-learned-from-the-android-os-1/"
       }
     }
   ],

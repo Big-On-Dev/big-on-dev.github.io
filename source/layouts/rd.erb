@@ -1,0 +1,35 @@
+<% domain = 'https://big-on.dev' %>
+<% title = yield_content(:title) %>
+<% description = yield_content(:description) %>
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <title><%= title %></title>
+    <meta name="description" content="<%= description %>">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="twitter:card" content="summary" />
+    <meta property="og:url" content="<%= domain %>/" />
+    <meta property="og:title" content="<%= title %>" />
+    <meta property="og:description" content="<%= description %>" />
+    <meta property="og:image" content="<%= domain %>/images/android-chrome-192x192.png" />
+    <meta name="theme-color" content="#98d9c3" />
+    <%= favicon_tag 'favicon.ico' %>
+    <link rel="apple-touch-icon" sizes="192x192" href="/images/android-chrome-192x192.png">
+    <%= stylesheet_link_tag "main" %>
+    <noscript><%= stylesheet_link_tag "noscript" %></noscript>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-MHD8TBTWGZ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-MHD8TBTWGZ');
+    </script>
+  </head>
+  <body class="is-preload">
+    <%= yield %>
+  </body>
+</html>
