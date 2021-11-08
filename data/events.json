@@ -1,6 +1,54 @@
 {
   "upcoming": [
     {
+      "title": "Software Developer Aspiration: Usain Bolt or M.D. House?",
+      "thumbnail": "images/events-9-16-ratio/4th-dec-2021.png",
+      "speakers": [
+        {
+          "title": "Bei Yi, Partner Engineer, Meta",
+          "link": "https://www.linkedin.com/in/beiyi1/"
+        }
+      ],
+      "youtubeLink": "https://www.youtube.com/watch?v=JsSNFr0ECoM",
+      "startTime": "4th December 2021, 10:00 AM SGT",
+      "description": "",
+      "calendar": {
+        "start": "2021-12-04T10:00:00+08:00",
+        "end": "2021-12-04T11:30:00+08:00"
+      },
+      "shortenedLink": {
+        "placeholder": "bei-yi-4-dec",
+        "destination": "https://gdg.community.dev/events/details/google-gdg-singapore-presents-software-developer-aspiration-usain-bolt-or-md-house-1"
+      }
+    },
+    {
+      "title": "DevFest: Android Dev Summit Extended 2021",
+      "thumbnail": "images/events-9-16-ratio/devfest-2021.png",
+      "speakers": [
+        {
+          "title": "Xiaodao Wu, Developer Advocate, Google",
+          "link": "https://www.linkedin.com/in/xiaodao-wu/"
+        },
+        {
+          "title": "Sagar Begale, Developer Relations Engineer, Google",
+          "link": "https://www.linkedin.com/in/sagar-begale/"
+        }
+      ],
+      "youtubeLink": "https://www.youtube.com/watch?v=4BAUPfc5IHE",
+      "startTime": "10th November 2021, 08:00 PM SGT",
+      "description": "",
+      "calendar": {
+        "start": "2021-11-10T20:00:00+08:00",
+        "end": "2021-11-10T20:30:00+08:00"
+      },
+      "shortenedLink": {
+        "placeholder": "devfest-2021",
+        "destination": "https://gdg.community.dev/events/details/google-gdg-singapore-presents-devfest-android-dev-summit-extended-2021/"
+      }
+    }
+  ],
+  "past": [
+    {
       "title": "Small Talk, Episode 2: All about Volunteering! In Tech!",
       "thumbnail": "images/events-9-16-ratio/3rd-november-2021.png",
       "speakers": [
@@ -41,9 +89,7 @@
         "placeholder": "chet-hasse-2-nov",
         "destination": "https://gdg.community.dev/events/details/google-gdg-singapore-presents-why-projects-succeed-lessons-learned-from-the-android-os-1/"
       }
-    }
-  ],
-  "past": [
+    },
     {
       "title": "Growth Mindset: My Career, a Work in Progress",
       "thumbnail": "images/events-9-16-ratio/2nd-october-2021-growth-mindset-my-career-a-work-in-progress.png",
