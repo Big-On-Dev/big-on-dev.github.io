@@ -1,6 +1,29 @@
 {
   "upcoming": [
     {
+      "title": "Small Talk #3 - Education, and the shift towards tech!",
+      "thumbnail": "images/events-9-16-ratio/5th-jan-2022.png",
+      "speakers": [
+        {
+          "title": "Soo Yuen Jien, Associate Professor, National University of Singapore",
+          "link": "https://www.comp.nus.edu.sg/cs/bio/sooyj/"
+        }
+      ],
+      "youtubeLink": "https://www.youtube.com/watch?v=Tc_vQZPOJ_Q",
+      "startTime": "5th January 2021, 8:00 PM SGT",
+      "description": "In recent years, we have seen the technology scene taking the world by storm. Companies, be it big or small, have taken advantage of this wave of innovation to create more value for our society.\n\nHowever, what does this change mean for us as individuals, and what can we expect to do for society and for ourselves? Our panelists - the Big O(n) Dev team - is elated to have Prof Soo Yuen Jien, an Associate Professor at the School of Computing in NUS, join us in our discussion of these current-day trends.",
+      "calendar": {
+        "start": "2022-01-05T20:00:00+08:00",
+        "end": "2022-01-05T21:30:00+08:00"
+      },
+      "shortenedLink": {
+        "placeholder": "prof-soo-5-jan",
+        "destination": "https://gdg.community.dev/events/details/google-gdg-singapore-presents-small-talk-3-education-and-the-shift-towards-tech"
+      }
+    }
+  ],
+  "past": [
+    {
       "title": "Software Developer Aspiration: Usain Bolt or M.D. House?",
       "thumbnail": "images/events-9-16-ratio/4th-dec-2021.png",
       "speakers": [
@@ -20,9 +43,7 @@
         "placeholder": "bei-yi-4-dec",
         "destination": "https://gdg.community.dev/events/details/google-gdg-singapore-presents-software-developer-aspiration-usain-bolt-or-md-house-1"
       }
-    }
-  ],
-  "past": [
+    },
     {
       "title": "DevFest: Android Dev Summit Extended 2021",
       "thumbnail": "images/events-9-16-ratio/devfest-2021.png",
