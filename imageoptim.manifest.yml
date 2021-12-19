@@ -1,43 +1,44 @@
 ---
-build/images/favicon-16x16.png: 2021-11-10 23:02:03.660575383 +08:00
-build/images/android-chrome-192x192.png: 2021-11-10 23:02:03.557152993 +08:00
-build/images/apple-touch-icon.png: 2021-11-10 23:02:03.558032407 +08:00
-build/images/events-9-16-ratio/3rd-november-2021.png: 2021-11-10 23:02:03.652604577
+build/images/favicon-16x16.png: 2021-12-19 18:22:17.181109265 +08:00
+build/images/android-chrome-192x192.png: 2021-12-19 18:22:17.134927033 +08:00
+build/images/apple-touch-icon.png: 2021-12-19 18:22:17.136172700 +08:00
+build/images/events-9-16-ratio/3rd-november-2021.png: 2021-12-19 18:22:17.179330389
   +08:00
-build/images/events-9-16-ratio/devfest-2021.png: 2021-11-10 23:02:03.660263925 +08:00
-build/images/events-9-16-ratio/20th-february-2021-managing-high-and-low-performers.png: 2021-11-10
-  23:02:03.629354929 +08:00
-build/images/events-9-16-ratio/3rd-april-2021-architects.png: 2021-11-10 23:02:03.636588890
+build/images/events-9-16-ratio/devfest-2021.png: 2021-12-19 18:22:17.181023890 +08:00
+build/images/events-9-16-ratio/20th-february-2021-managing-high-and-low-performers.png: 2021-12-19
+  18:22:17.170049926 +08:00
+build/images/events-9-16-ratio/3rd-april-2021-architects.png: 2021-12-19 18:22:17.173772386
   +08:00
-build/images/events-9-16-ratio/3rd-july-2021-developer-productivity-at-scale.png: 2021-11-10
-  23:02:03.650874343 +08:00
-build/images/events-9-16-ratio/15th-september-2021-small-talk-overseas.png: 2021-11-10
-  23:02:03.619757343 +08:00
-build/images/events-9-16-ratio/9th-june-2021-engineering-productivity-metrics-and-morale.png: 2021-11-10
-  23:02:03.658902990 +08:00
-build/images/events-9-16-ratio/2nd-september-2021-avoiding-the-engineering-sales-breakdown.png: 2021-11-10
-  23:02:03.632987167 +08:00
-build/images/events-9-16-ratio/4th-dec-2021.png: 2021-11-10 23:02:03.656254964 +08:00
-build/images/events-9-16-ratio/4th-august-2021-the-need-for-application-security.png: 2021-11-10
-  23:02:03.653836624 +08:00
-build/images/events-9-16-ratio/2nd-october-2021-growth-mindset-my-career-a-work-in-progress.png: 2021-11-10
-  23:02:03.631860256 +08:00
-build/images/events-9-16-ratio/20-mar-2021-working-better-together.png: 2021-11-10
-  23:02:03.625799130 +08:00
-build/images/events-9-16-ratio/2021-fullcycle-engineering-leadership.png: 2021-11-10
-  23:02:03.628399974 +08:00
-build/images/events-9-16-ratio/2020-gdg-sg-devfest.png: 2021-11-10 23:02:03.626540277
+build/images/events-9-16-ratio/3rd-july-2021-developer-productivity-at-scale.png: 2021-12-19
+  18:22:17.178882222 +08:00
+build/images/events-9-16-ratio/15th-september-2021-small-talk-overseas.png: 2021-12-19
+  18:22:17.165070548 +08:00
+build/images/events-9-16-ratio/9th-june-2021-engineering-productivity-metrics-and-morale.png: 2021-12-19
+  18:22:17.180545473 +08:00
+build/images/events-9-16-ratio/5th-jan-2022.png: 2021-12-19 18:23:03.385907311 +08:00
+build/images/events-9-16-ratio/2nd-september-2021-avoiding-the-engineering-sales-breakdown.png: 2021-12-19
+  18:22:17.171904177 +08:00
+build/images/events-9-16-ratio/4th-dec-2021.png: 2021-12-19 18:22:17.180134597 +08:00
+build/images/events-9-16-ratio/4th-august-2021-the-need-for-application-security.png: 2021-12-19
+  18:22:17.179721722 +08:00
+build/images/events-9-16-ratio/2nd-october-2021-growth-mindset-my-career-a-work-in-progress.png: 2021-12-19
+  18:22:17.171250676 +08:00
+build/images/events-9-16-ratio/20-mar-2021-working-better-together.png: 2021-12-19
+  18:22:17.168447633 +08:00
+build/images/events-9-16-ratio/2021-fullcycle-engineering-leadership.png: 2021-12-19
+  18:22:17.169593425 +08:00
+build/images/events-9-16-ratio/2020-gdg-sg-devfest.png: 2021-12-19 18:22:17.168849383
   +08:00
-build/images/events-9-16-ratio/16th-january-2021-engineering-leadership.png: 2021-11-10
-  23:02:03.620972528 +08:00
-build/images/events-9-16-ratio/17th-april-2021-engineer-career-paths.png: 2021-11-10
-  23:02:03.623572210 +08:00
-build/images/events-9-16-ratio/27th-october-2021.png: 2021-11-10 23:02:03.630579159
+build/images/events-9-16-ratio/16th-january-2021-engineering-leadership.png: 2021-12-19
+  18:22:17.165745798 +08:00
+build/images/events-9-16-ratio/17th-april-2021-engineer-career-paths.png: 2021-12-19
+  18:22:17.167533424 +08:00
+build/images/events-9-16-ratio/27th-october-2021.png: 2021-12-19 18:22:17.170703551
   +08:00
-build/images/events-9-16-ratio/17th-august-2021-small-talk-mentor.png: 2021-11-10
-  23:02:03.624901543 +08:00
-build/images/android-chrome-512x512.png: 2021-11-10 23:02:03.557813304 +08:00
-build/images/logo.png: 2021-11-10 23:02:03.662376776 +08:00
-build/images/overlay.png: 2021-11-10 23:02:03.662683459 +08:00
-build/images/favicon-32x32.png: 2021-11-10 23:02:03.660779533 +08:00
-build/images/bg.jpg: 2021-11-10 23:02:03.586956214 +08:00
+build/images/events-9-16-ratio/17th-august-2021-small-talk-mentor.png: 2021-12-19
+  18:22:17.167938216 +08:00
+build/images/android-chrome-512x512.png: 2021-12-19 18:22:17.136024283 +08:00
+build/images/logo.png: 2021-12-19 18:22:17.182153182 +08:00
+build/images/overlay.png: 2021-12-19 18:22:17.182340265 +08:00
+build/images/favicon-32x32.png: 2021-12-19 18:22:17.181170098 +08:00
+build/images/bg.jpg: 2021-12-19 18:22:17.148237706 +08:00
