@@ -1,5 +1,7 @@
 {
   "upcoming": [
+  ],
+  "past": [
     {
       "title": "Small Talk #3 - Education, and the shift towards tech!",
       "thumbnail": "images/events-9-16-ratio/5th-jan-2022.png",
@@ -20,9 +22,7 @@
         "placeholder": "prof-soo-5-jan",
         "destination": "https://gdg.community.dev/events/details/google-gdg-singapore-presents-small-talk-3-education-and-the-shift-towards-tech"
       }
-    }
-  ],
-  "past": [
+    },
     {
       "title": "Software Developer Aspiration: Usain Bolt or M.D. House?",
       "thumbnail": "images/events-9-16-ratio/4th-dec-2021.png",
