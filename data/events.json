@@ -1,9 +1,26 @@
 {
   "upcoming": [
+    {
+      "title": "Laid Off? Level Up! How Two Ex-Employees Found Their Hustle - Small Talk #4",
+      "thumbnail": "images/events-9-16-ratio/30th-dec-2023-smalltalk-4.png",
+      "speakers": [
+        {
+          "title": "Hairizuan Noorazman, DevOps Engineer, Kiteworks",
+          "link": "https://www.hairizuan.com/"
+        }
+      ],
+      "youtubeLink": "https://www.youtube.com/watch?v=ie2RdKPMQz8",
+      "startTime": "30th December 2023, 10:30 AM SGT",
+      "description": "Two GDG Cloud Singapore organizers were recently displaced - one from an unfortunate layoff exercise, while the other moved on due to intense office politics. \n\nJoin this \"Small Talk\" podcast episode as we casually chat about what happened since the initial situation, and what we are up to since then.",
+      "calendar": {
+        "start": "2023-12-30T10:30:00+08:00",
+        "end": "2023-12-30T12:00:00+08:00"
+      }
+    }
   ],
   "past": [
     {
-      "title": "Small Talk #3 - Education, and the shift towards tech!",
+      "title": "Education, and the shift towards tech! - Small Talk #3",
       "thumbnail": "images/events-9-16-ratio/5th-jan-2022.png",
       "speakers": [
         {
@@ -70,7 +87,7 @@
       }
     },
     {
-      "title": "Small Talk, Episode 2: All about Volunteering! In Tech!",
+      "title": "All about Volunteering! In Tech! - Small Talk #2",
       "thumbnail": "images/events-9-16-ratio/3rd-november-2021.png",
       "speakers": [
         {
@@ -129,7 +146,7 @@
       }
     },
     {
-      "title": "Small Talk, Episode 1: Working Overseas?",
+      "title": "Working Overseas? - Small Talk #1",
       "thumbnail": "images/events-9-16-ratio/15th-september-2021-small-talk-overseas.png",
       "speakers": [
         {
@@ -163,7 +180,7 @@
       }
     },
     {
-      "title": "Small Talk, Episode 0: Mentor? In Tech?",
+      "title": "Mentor? In Tech? - Small Talk #0",
       "thumbnail": "images/events-9-16-ratio/17th-august-2021-small-talk-mentor.png",
       "speakers": [
         {
