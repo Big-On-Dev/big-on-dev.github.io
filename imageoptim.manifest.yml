@@ -1,48 +1,48 @@
 ---
-build/images/favicon-16x16.png: 2024-01-01 11:44:23.084312689 +08:00
-build/images/android-chrome-192x192.png: 2024-01-01 11:44:23.047914854 +08:00
-build/images/apple-touch-icon.png: 2024-01-01 11:44:23.048548089 +08:00
-build/images/events-9-16-ratio/3rd-november-2021.png: 2024-01-01 11:44:23.082338695
+build/images/favicon-16x16.png: 2024-01-01 12:21:18.568166115 +08:00
+build/images/android-chrome-192x192.png: 2024-01-01 12:21:18.533879993 +08:00
+build/images/apple-touch-icon.png: 2024-01-01 12:21:18.534517769 +08:00
+build/images/events-9-16-ratio/3rd-november-2021.png: 2024-01-01 12:21:18.565841338
   +08:00
-build/images/events-9-16-ratio/devfest-2021.png: 2024-01-01 11:44:23.084245649 +08:00
+build/images/events-9-16-ratio/devfest-2021.png: 2024-01-01 12:21:18.567673419 +08:00
 build/images/events-9-16-ratio/20th-february-2021-managing-high-and-low-performers.png: 2024-01-01
-  11:44:23.073116083 +08:00
-build/images/events-9-16-ratio/3rd-april-2021-architects.png: 2024-01-01 11:44:23.076359922
+  12:21:18.557179258 +08:00
+build/images/events-9-16-ratio/3rd-april-2021-architects.png: 2024-01-01 12:21:18.560567509
   +08:00
 build/images/events-9-16-ratio/3rd-july-2021-developer-productivity-at-scale.png: 2024-01-01
-  11:44:23.081890289 +08:00
+  12:21:18.565524555 +08:00
 build/images/events-9-16-ratio/15th-september-2021-small-talk-overseas.png: 2024-01-01
-  11:44:23.068584067 +08:00
+  12:21:18.552427040 +08:00
 build/images/events-9-16-ratio/small-talk/2024/13th-jan-2023-smalltalk-5.jpg: 2024-01-01
-  11:44:33.112752472 +08:00
+  12:21:18.568093534 +08:00
 build/images/events-9-16-ratio/9th-june-2021-engineering-productivity-metrics-and-morale.png: 2024-01-01
-  11:44:23.083769535 +08:00
-build/images/events-9-16-ratio/5th-jan-2022.png: 2024-01-01 11:44:23.083387503 +08:00
+  12:21:18.567200472 +08:00
+build/images/events-9-16-ratio/5th-jan-2022.png: 2024-01-01 12:21:18.566815815 +08:00
 build/images/events-9-16-ratio/2nd-september-2021-avoiding-the-engineering-sales-breakdown.png: 2024-01-01
-  11:44:23.074324887 +08:00
-build/images/events-9-16-ratio/4th-dec-2021.png: 2024-01-01 11:44:23.083074802 +08:00
-build/images/events-9-16-ratio/30th-dec-2023-smalltalk-4.png: 2024-01-01 11:44:23.074669545
+  12:21:18.558483934 +08:00
+build/images/events-9-16-ratio/4th-dec-2021.png: 2024-01-01 12:21:18.566500614 +08:00
+build/images/events-9-16-ratio/30th-dec-2023-smalltalk-4.png: 2024-01-01 12:21:18.558832759
   +08:00
 build/images/events-9-16-ratio/4th-august-2021-the-need-for-application-security.png: 2024-01-01
-  11:44:23.082692061 +08:00
+  12:21:18.566172247 +08:00
 build/images/events-9-16-ratio/2nd-october-2021-growth-mindset-my-career-a-work-in-progress.png: 2024-01-01
-  11:44:23.074008603 +08:00
+  12:21:18.558145443 +08:00
 build/images/events-9-16-ratio/20-mar-2021-working-better-together.png: 2024-01-01
-  11:44:23.071678909 +08:00
+  12:21:18.555645504 +08:00
 build/images/events-9-16-ratio/2021-fullcycle-engineering-leadership.png: 2024-01-01
-  11:44:23.072695218 +08:00
-build/images/events-9-16-ratio/2020-gdg-sg-devfest.png: 2024-01-01 11:44:23.072025026
+  12:21:18.556745602 +08:00
+build/images/events-9-16-ratio/2020-gdg-sg-devfest.png: 2024-01-01 12:21:18.556025328
   +08:00
 build/images/events-9-16-ratio/16th-january-2021-engineering-leadership.png: 2024-01-01
-  11:44:23.069170094 +08:00
+  12:21:18.553035192 +08:00
 build/images/events-9-16-ratio/17th-april-2021-engineer-career-paths.png: 2024-01-01
-  11:44:23.070882595 +08:00
-build/images/events-9-16-ratio/27th-october-2021.png: 2024-01-01 11:44:23.073706527
+  12:21:18.554781316 +08:00
+build/images/events-9-16-ratio/27th-october-2021.png: 2024-01-01 12:21:18.557777952
   +08:00
 build/images/events-9-16-ratio/17th-august-2021-small-talk-mentor.png: 2024-01-01
-  11:44:23.071217087 +08:00
-build/images/android-chrome-512x512.png: 2024-01-01 11:44:23.048464133 +08:00
-build/images/logo.png: 2024-01-01 11:44:23.085250417 +08:00
-build/images/overlay.png: 2024-01-01 11:44:23.085333914 +08:00
-build/images/favicon-32x32.png: 2024-01-01 11:44:23.084367188 +08:00
-build/images/bg.jpg: 2024-01-01 11:44:23.055984453 +08:00
+  12:21:18.555158432 +08:00
+build/images/android-chrome-512x512.png: 2024-01-01 12:21:18.534429437 +08:00
+build/images/logo.png: 2024-01-01 12:21:18.569112217 +08:00
+build/images/overlay.png: 2024-01-01 12:21:18.569187007 +08:00
+build/images/favicon-32x32.png: 2024-01-01 12:21:18.568216656 +08:00
+build/images/bg.jpg: 2024-01-01 12:21:18.541521473 +08:00
