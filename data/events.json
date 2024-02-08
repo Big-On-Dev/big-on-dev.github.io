@@ -1,5 +1,7 @@
 {
   "upcoming": [
+  ],
+  "past": [
     {
       "title": "The Engineering Dilemma - SimplyGo - Small Talk #7",
       "thumbnail": "images/events-9-16-ratio/small-talk/2024/8th-feb-2024-smalltalk-7.jpg",
@@ -20,9 +22,7 @@
         "start": "2024-02-08T20:00:00+08:00",
         "end": "2024-02-08T21:30:00+08:00"
       }
-    }
-  ],
-  "past": [
+    },
     {
       "title": "Cracking the code on weight loss - My journey during the pandemic - Small Talk #6",
       "thumbnail": "images/events-9-16-ratio/small-talk/2024/27th-jan-2024-smalltalk-6.jpg",
